@@ -1,0 +1,42 @@
+2022-01-20_22-24-28.009 Warning: Unable to query physical screen size, defaulting to 100 dpi.
+To override, set QT_QPA_EGLFS_PHYSICAL_WIDTH and QT_QPA_EGLFS_PHYSICAL_HEIGHT (in millimeters).
+2022-01-20_22-24-28.933 Warning: fromIccProfile: failed minimal tag size sanity
+2022-01-20_22-24-34.916 Warning: fromIccProfile: failed minimal tag size sanity
+2022-01-20_22-24-40.980 Warning: fromIccProfile: failed minimal tag size sanity
+2022-01-20_22-24-42.880 Debug: setRedLed true
+2022-01-20_22-24-44.589 Debug: setRedLed false
+2022-01-20_22-24-45.070 Debug: setOrangeLed true
+2022-01-20_22-24-46.516 Debug: setOrangeLed false
+2022-01-20_22-24-46.922 Warning: fromIccProfile: failed minimal tag size sanity
+2022-01-20_22-24-47.116 Debug: setGreenLed true
+2022-01-20_22-24-48.610 Debug: setGreenLed false
+2022-01-20_22-24-51.880 Debug: time for alarm set to "0" : "0"
+2022-01-20_22-24-51.880 Debug: Alarm switch checked
+2022-01-20_22-24-52.920 Warning: fromIccProfile: failed minimal tag size sanity
+2022-01-20_22-24-58.945 Warning: fromIccProfile: failed minimal tag size sanity
+2022-01-20_22-25-04.976 Warning: fromIccProfile: failed minimal tag size sanity
+2022-01-20_22-25-10.968 Warning: fromIccProfile: failed minimal tag size sanity
+2022-01-20_22-25-16.915 Warning: fromIccProfile: failed minimal tag size sanity
+2022-01-20_22-25-18.069 Debug: time for alarm set to "22" : "25"
+2022-01-20_22-25-18.070 Debug: Alarm switch checked
+2022-01-20_22-25-18.440 Debug: alarm triggered
+2022-01-20_22-25-18.442 Debug: setAlarm true
+2022-01-20_22-25-18.909 Debug: setAlarm false
+2022-01-20_22-25-18.910 Debug: setGreenLed false
+2022-01-20_22-25-18.911 Debug: setRedLed false
+2022-01-20_22-25-18.911 Debug: setOrangeLed false
+2022-01-20_22-25-18.913 Debug: Alarm stopped with MouseArea
+2022-01-20_22-25-20.410 Debug: time for alarm set to "22" : "25"
+2022-01-20_22-25-20.411 Debug: Alarm switch checked
+2022-01-20_22-25-20.439 Debug: alarm triggered
+2022-01-20_22-25-20.440 Debug: setAlarm true
+2022-01-20_22-25-22.924 Warning: fromIccProfile: failed minimal tag size sanity
+2022-01-20_22-25-28.921 Warning: fromIccProfile: failed minimal tag size sanity
+2022-01-20_22-25-34.930 Warning: fromIccProfile: failed minimal tag size sanity
+2022-01-20_22-25-35.123 Debug: setAlarm false
+2022-01-20_22-25-35.124 Debug: setGreenLed false
+2022-01-20_22-25-35.125 Debug: setRedLed false
+2022-01-20_22-25-35.125 Debug: setOrangeLed false
+2022-01-20_22-25-35.127 Debug: Alarm stopped with MouseArea
+2022-01-20_22-25-40.926 Warning: fromIccProfile: failed minimal tag size sanity
+2022-01-20_22-25-46.920 Warning: fromIccProfile: failed minimal tag size sanity
