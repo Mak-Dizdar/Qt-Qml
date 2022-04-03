@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>img/btnAlarm.png</file>
+        <file>img/btnDrawer.png</file>
+        <file>img/btnTime.png</file>
+        <file>img/iconAlarm.png</file>
+        <file>img/btnLighting.png</file>
+        <file>img/btnLightingGreen.png</file>
+        <file>img/btnLightingRed.png</file>
+        <file>img/btnLightingYellow.png</file>
+        <file>Time.qml</file>
+        <file>Alarm.qml</file>
+        <file>Lighting.qml</file>
+        <file>img/background1.jpg</file>
+        <file>img/background2.jpg</file>
+        <file>AlarmImage.qml</file>
+    </qresource>
+</RCC>
